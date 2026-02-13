@@ -48,6 +48,15 @@ fahad/
 
 ## Recent Changes
 
+### 2026-02-13 - Toolkit & Experience Update
+
+**Updated:**
+- ✅ **Tools & Software**: Updated toolkit to include Revit, AutoCAD, Photoshop, PowerPoint, Excel, Adobe Canva, Rhino, SketchUp, D5 Render, and Lumen.
+- ✅ **Experience**: Updated Junior Architect position location to Saudi Arabia.
+- ✅ **Styling**: Applied Tailwind v4 lint fixes (`flex-shrink-0` to `shrink-0`).
+
+---
+
 ### 2026-02-13 - Project Detail Pages Implementation
 
 **Added:**
