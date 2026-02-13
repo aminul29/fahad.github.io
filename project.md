@@ -71,6 +71,15 @@ fahad/
   - High-end typography (Space Grotesk + Inter)
   - Next/Previous project navigation for seamless browsing
 
+### CV-Based Content Integration (Feb 2026)
+- **Identity Standardization**: Updated all pages with name "Omair Al-Qahtani" and contact details from `cv.txt`.
+- **About Section**: Reframed professional summary to focus on "Real Estate Development" and "Saudi Vision 2030".
+- **Experience Timeline**: Replaced placeholders with "Al-Woasta for Investment" and "Vision 2030 Club".
+- **Education Section**: Added a new section for academic background (KSU, GPA 4.15/5, and Bell Cambridge).
+- **Specialized Skills**: Added cards for Real Estate Investment, HBU Analysis, and Technical Design.
+- **Project Standardization**: Updated detail pages (`al-thumama-aviation-club.html`, etc.) with consistent footers and contact links.
+- **Technical Fixes**: Resolved Tailwind v4 lint warnings and optimized software ticker for seamless looping.
+
 **Modified:**
 - 🔄 `index.html` - Linked project cards to their respective detail pages
 - 🔄 `index.html` - Enhanced project cards with better hover states and clickability
